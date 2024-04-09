@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19674
-Fork on GitHub
-5910
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Selcuk</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
